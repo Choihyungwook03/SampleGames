@@ -1,5 +1,5 @@
 using TurnGame;
-using Unity.Android.Gradle.Manifest;
+//using Unity.Android.Gradle.Manifest;
 namespace TurnGame.Student
 {
     public class BattleRankCalculator : IBattleRankCalculator
